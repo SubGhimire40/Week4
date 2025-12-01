@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CinemaTicketMonolith {
+public class CinemaTicketXFX {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
